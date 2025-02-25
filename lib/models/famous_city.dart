@@ -1,0 +1,67 @@
+class FamousCity {
+  final String name;
+  final double lat;
+  final double lon;
+
+  const FamousCity({
+    required this.name,
+    required this.lat,
+    required this.lon,
+  });
+}
+
+//about 52 cities details
+List<FamousCity> famousCities = const [
+  FamousCity(name: 'Yercaud', lat: 35.6833, lon: 139.7667),
+  //FamousCity(name: 'Adirampattinam', lat: 10.341318, lon: 79.379646),
+  FamousCity(name: 'Attur', lat: 11.6000, lon: 78.6500),
+  //FamousCity(name: 'Atur', lat: 10.2667, lon: 77.8833),
+  //FamousCity(name: 'Bodinayakkanur', lat: 10.0167, lon: 77.4000),
+  //FamousCity(name: 'Calimere, Point', lat: 10.3000, lon: 79.8667),
+  // FamousCity(name: 'Carnatic', lat: 12.0000, lon: 80.0000),
+  // FamousCity(name: 'Chidambaram', lat: 11.4000, lon: 79.7333),
+  // FamousCity(name: 'Chingleput', lat: 12.7000, lon: 80.0167),
+  FamousCity(name: 'Coimbatore', lat: 11.0000, lon: 77.0000),
+  // FamousCity(name: 'Comorin, C.', lat: 8.0667, lon: 77.6000),
+  // FamousCity(name: 'Coromandel Coast', lat: 12.0000, lon: 80.5000),
+  // FamousCity(name: 'Cuddalore', lat: 11.7167, lon: 79.8167),
+  // FamousCity(name: 'Devakottai', lat: 9.9500, lon: 78.8833),
+  // FamousCity(name: 'Dhanushkodi', lat: 9.1667, lon: 79.4667),
+  // FamousCity(name: 'Dharapuram', lat: 10.7500, lon: 77.5667),
+  //FamousCity(name: 'Dharmapuri', lat: 12.1333, lon: 78.2167),
+  //FamousCity(name: 'Dindigul', lat: 10.3667, lon: 78.0000),
+  // FamousCity(name: 'Dodabetta. Mt.', lat: 11.4167, lon: 76.7667),
+  // FamousCity(name: 'Ennore', lat: 13.2333, lon: 80.3667),
+  FamousCity(name: 'Erode', lat: 11.3333, lon: 77.7667),
+  // FamousCity(name: 'Fort St David', lat: 11.7500, lon: 79.8333),
+  // FamousCity(name: 'Fort St George', lat: 13.0667, lon: 80.2833),
+  // FamousCity(name: 'Gudiyatam', lat: 12.9500, lon: 78.9167),
+  //FamousCity(name: 'Hospur', lat: 12.7333, lon: 77.8667),
+  // FamousCity(name: 'Jalarpet', lat: 12.5667, lon: 78.6167),
+  // FamousCity(name: 'Javadi hills', lat: 12.6667, lon: 78.6667),
+  //FamousCity(name: 'Kanchipuram', lat: 12.8333, lon: 79.7500),
+  FamousCity(name: 'Karur', lat: 10.9667, lon: 78.1167),
+  // FamousCity(name: 'Kaveri R.', lat: 11.3333, lon: 77.8333),
+  // FamousCity(name: 'Kayalpatnam', lat: 8.5667, lon: 78.1667),
+  // FamousCity(name: 'Kilakarai', lat: 9.2333, lon: 78.8333),
+  FamousCity(name: 'Kodaikanal', lat: 10.2167, lon: 77.5333),
+  //FamousCity(name: 'Krishnagiri', lat: 12.5333, lon: 78.2667),
+  //FamousCity(name: 'Kumbakonam', lat: 10.9667, lon: 79.4167),
+  FamousCity(name: 'Chennai', lat: 13.0667, lon: 80.2833),
+  FamousCity(name: 'Madurai', lat: 9.9667, lon: 78.1667),
+  // FamousCity(name: 'Madurantakam', lat: 12.5000, lon: 79.9333),
+  //FamousCity(name: 'Mahabalipuram', lat: 12.6167, lon: 80.2333),
+  // FamousCity(name: 'Mannargudi', lat: 10.6667, lon: 79.4833),
+  // FamousCity(name: 'Mayuram', lat: 11.1000, lon: 79.7000),
+  // FamousCity(name: 'Mettupalaiyam', lat: 11.3000, lon: 77.0167),
+  //FamousCity(name: 'MetturDam', lat: 11.8667, lon: 77.8333),
+  // FamousCity(name: 'Nagercoil', lat: 8.1833, lon: 77.4833),
+  FamousCity(name: 'Namakkal', lat: 11.2167, lon: 78.2167),
+  // FamousCity(name: 'Nanguneri', lat: 8.4833, lon: 77.7333),
+  // FamousCity(name: 'Neiveli', lat: 10.5167, lon: 79.4000),
+  // FamousCity(name: 'Pachaimalai Hills', lat: 11.2500, lon: 78.0500),
+  // FamousCity(name: 'Palladam', lat: 11.0000, lon: 77.0333),
+  // FamousCity(name: 'Rameswaram', lat: 9.2833, lon: 79.5000),
+  // FamousCity(name: 'Tiruchirappalli', lat: 10.8333, lon: 78.6833),
+  // FamousCity(name: 'Tuticorin', lat: 8.8000, lon: 78.1333),
+];
