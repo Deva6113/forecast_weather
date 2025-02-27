@@ -1,12 +1,13 @@
-🌦️ Forecast Weather App  
+ 
+# 🌦️ Forecast Weather App  
 
-📝 About  
+## 📝 About  
 The Forecast Weather App is a Flutter-based mobile application designed to provide real-time weather updates with a clean and user-friendly interface.  
 Stay informed about temperature, humidity, wind speed, and forecasts using accurate weather data from the OpenWeatherMap API.  
 
 ---
 
-🚀 Features  
+## 🚀 Features  
 🌍 Live Weather Updates – Get real-time weather details for any city using OpenWeatherMap API.  
 📍 Geolocation Support – Automatically fetch weather based on your current location.  
 🔍 Search by City Name – Enter a city name to get instant weather reports.  
@@ -17,7 +18,7 @@ Stay informed about temperature, humidity, wind speed, and forecasts using accur
 
 ---
 
-🏗️ Tech Stack  
+## 🏗️ Tech Stack  
 📱 Frontend: Flutter (Dart)  
 🌐 API: OpenWeatherMap API,OpenMeteo API  
 📂 State Management: Flutter Riverpod  
@@ -27,7 +28,7 @@ Stay informed about temperature, humidity, wind speed, and forecasts using accur
 
 ---
 
-📂 Project Structure  
+## 📂 Project Structure  
 📁 Screens/ - Contains all the UI screens for the app.  
 📁 Providers/ - Manages API calls and state management.  
 📁 Services/ - Handles API integration using Dio and OpenMeteo.  
@@ -35,16 +36,18 @@ Stay informed about temperature, humidity, wind speed, and forecasts using accur
 
 ---
 
-📱 Android App Version  
+## 📱 Android App Version  
 The Forecast Weather App is available as an Android application, delivering accurate weather data on the go.  
 
 ---
 
-🚧 Current Development Status  
+## 🚧 Current Development Status  
 🔄 Enhanced UI/UX – Improving design for a more engaging experience.  
 📊 Advanced Weather Analytics – Adding charts for temperature trends.  
 🌍 Offline Support – Caching weather data for offline access.  
 
 ---
+
+ 
 
  
