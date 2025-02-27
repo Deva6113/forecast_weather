@@ -48,15 +48,13 @@ The Forecast Weather App is available as an Android application, delivering accu
 
 ---
 ## 📸 Screenshots
-![IMG-20250227-WA0018](https://github.com/user-attachments/assets/0c35fc35-219c-48ec-9895-c9a85186f27b)
-![IMG-20250227-WA0017](https://github.com/user-attachments/assets/21ad627d-c08e-4570-b233-fb0a9642b358)
-![IMG-20250227-WA0016](https://github.com/user-attachments/assets/0c9ea30c-c61a-41b4-9d93-50ad63ec3533)
-![IMG-20250227-WA0015](https://github.com/user-attachments/assets/060219f1-a1fb-4883-b5e9-3c40cfb466cb)
-![IMG-20250227-WA0014](https://github.com/user-attachments/assets/dc38e4c4-e33e-4d1a-a6b6-2a192a9e6b5e)
-![IMG-20250128-WA0006](https://github.com/user-attachments/assets/0c5eb377-d8cb-426d-902e-fc0ee3efbed0)
-![IMG-20250227-WA0021](https://github.com/user-attachments/assets/db2c862d-a604-474a-b6a5-80c8d8d3f5ed)
-![IMG-20250227-WA0020](https://github.com/user-attachments/assets/f33b174d-bd73-49aa-a743-3026c34c22a4)
-![IMG-20250227-WA0019](https://github.com/user-attachments/assets/ef4d3f4c-98d3-48d3-afee-1181868029e9)
+![IMG-20250227-WA0017](https://github.com/user-attachments/assets/9f8a05ba-1ffe-4f44-b436-ee7c68bccdd4)  ![IMG-20250227-WA0015](https://github.com/user-attachments/assets/b4f80e0c-1d6e-4c3a-aebf-2b616776dcf2)
+![IMG-20250227-WA0014](https://github.com/user-attachments/assets/bc3efd24-37b1-4139-8393-2dc4fd86c184)  ![IMG-20250128-WA0006](https://github.com/user-attachments/assets/6a61050a-7d16-4ff0-a8e3-8ded4d5f3ca4)
+![IMG-20250227-WA0020](https://github.com/user-attachments/assets/7307f50b-fff0-4114-91c3-b8f54ad4cf6f)  ![IMG-20250227-WA0016](https://github.com/user-attachments/assets/b049cbaf-388e-46a0-aff8-1448097c6195)
+![IMG-20250227-WA0018](https://github.com/user-attachments/assets/474fbd8b-0702-4280-9914-2accf00c8c11)  ![IMG-20250227-WA0021](https://github.com/user-attachments/assets/9dc18d85-552d-455b-bab4-7653f7f0604b)![IMG-20250227-WA0019](https://github.com/user-attachments/assets/c6d1b086-2715-4e6e-8007-3c8a4280ab36)
+
+
+
 
 ## 🎥 Video
 
